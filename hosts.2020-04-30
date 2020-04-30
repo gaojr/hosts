@@ -1,0 +1,105 @@
+127.0.0.1 localhost
+
+# Archive Start
+207.241.224.4	archive.org
+207.241.224.4	www.archive.org
+207.241.225.95	analytics.archive.org
+207.241.233.214	web-beta.archive.org
+207.241.233.214	wwwb-sentry.us.archive.org
+207.241.233.214	web.archive.org
+207.241.224.6	mail.archive.org
+207.241.225.247	books-general.archive.org
+# Archive End
+
+# Avira Start
+52.59.33.68	search.avira.com
+# Avira End
+
+# Github Start
+192.30.255.112	gist.github.com
+192.30.255.112	github.com
+192.30.255.112	www.github.com
+151.101.56.133	avatars0.githubusercontent.com
+151.101.56.133	avatars1.githubusercontent.com
+151.101.56.133	avatars2.githubusercontent.com
+151.101.56.133	avatars3.githubusercontent.com
+151.101.56.133	avatars4.githubusercontent.com
+151.101.56.133	avatars5.githubusercontent.com
+151.101.56.133	avatars6.githubusercontent.com
+151.101.56.133	avatars7.githubusercontent.com
+151.101.56.133	avatars8.githubusercontent.com
+151.101.56.133	camo.githubusercontent.com
+151.101.56.133	cloud.githubusercontent.com
+151.101.56.133	gist.githubusercontent.com
+151.101.56.133	marketplace-screenshots.githubusercontent.com
+151.101.56.133	raw.githubusercontent.com
+151.101.56.133	repository-images.githubusercontent.com
+151.101.56.133	user-images.githubusercontent.com
+# Github End
+
+# HumbleBundle Start
+54.249.82.168	humble.pubnub.com
+104.20.34.236	humblebundle.com
+104.20.34.236	www.humblebundle.com
+52.36.140.12	pubnub.com
+# HumbleBundle End
+
+# OneDrive Start
+204.79.197.213	api.onedrive.com
+23.76.75.24	api.onedrive.live.com
+131.253.33.217	onedrive.live.com
+131.253.33.217	webedgegeo.skyprod.akadns.net
+131.253.14.230	skyapi.onedrive.live.com
+134.170.104.157	skyweb.skyprod.akadns.net
+# OneDrive End
+
+# Pixiv Start
+210.140.131.203	www.pixiv.net
+210.140.131.204	touch.pixiv.net
+210.140.131.205	source.pixiv.net
+210.140.131.206	accounts.pixiv.net
+210.140.131.207	imgaz.pixiv.net
+210.140.131.208	app-api.pixiv.net
+210.140.131.209	oauth.secure.pixiv.net
+210.140.131.210	dic.pixiv.net
+210.140.131.211	comic.pixiv.net
+210.140.131.212	factory.pixiv.net
+18.211.61.121	g-client-proxy.pixiv.net
+210.140.170.179	sketch.pixiv.net
+210.140.131.214	payment.pixiv.net
+210.140.131.215	sensei.pixiv.net
+210.140.131.216	novel.pixiv.net
+210.140.131.217	ssl.pixiv.net
+66.6.32.22	times.pixiv.net
+210.140.131.218	recruit.pixiv.net
+210.140.131.219	pixiv.net
+122.208.114.218	p2.pixiv.net
+13.35.19.186	matsuri.pixiv.net
+210.140.131.220	m.pixiv.net
+13.35.19.88	iracon.pixiv.net
+210.140.131.222	inside.pixiv.net
+210.140.131.223	i1.pixiv.net
+210.140.131.224	help.pixiv.net
+210.140.131.225	goods.pixiv.net
+210.140.131.226	genepixiv.pr.pixiv.net
+13.35.19.46	festa.pixiv.net
+210.140.131.180	en.dic.pixiv.net
+52.219.68.134	dev.pixiv.net
+210.140.131.181	chat.pixiv.net
+122.208.114.218	blog.pixiv.net
+210.140.131.182	embed.pixiv.net
+210.140.131.183	comic-api.pixiv.net
+210.140.131.184	pay.pixiv.net
+# Pixiv End
+
+# Potplayer Start
+211.231.108.181	potplayer.daum.net
+# Potplayer End
+
+# Steam Start
+23.42.45.238	steamcommunity.com
+# Steam End
+
+# W3schools Start
+192.229.173.207	www.w3schools.com
+# W3schools End
