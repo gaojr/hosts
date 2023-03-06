@@ -6,27 +6,27 @@ hosts 相关
 
 hosts 文件属于系统核心文件之一。
 
-* Windows 用户必须用管理员身份打开才能修改保存。如果遇到无法保存，请右键 hosts 文件 -> “属性” -> “安全”，然后选择登陆的用户名，点击编辑，勾选“写入”即可。
+- Windows 用户必须用管理员身份打开才能修改保存。如果遇到无法保存，请右键 hosts 文件 -> “属性” -> “安全”，然后选择登陆的用户名，点击编辑，勾选“写入”即可。
 
-* Android（安卓）必须 Root 才能修改。Root Explorer 管理器或 ES 文件浏览器装载 /system 可写状态。
+- Android（安卓）必须 Root 才能修改。Root Explorer 管理器或 ES 文件浏览器装载 /system 可写状态。
 
-* Linux 需要使用 Root 权限。
+- Linux 需要使用 Root 权限。
 
-* iPhone、iPad 必须越狱才能修改。
+- iPhone、iPad 必须越狱才能修改。
 
 *Windows 系统跟苹果系统的 hosts 文件文本编码和换行符格式一样，而 Android（安卓）则不一样，需要注意。*
 
 ## 文件位置
 
-**Windows** `C:\Windows\System32\drivers\etc\hosts`
+**Windows*- `C:\Windows\System32\drivers\etc\hosts`
 
-**Android（安卓）** `/system/etc/hosts`
+**Android（安卓）*- `/system/etc/hosts`
 
-**Linux** `/etc/hosts`
+**Linux*- `/etc/hosts`
 
-**Mac（苹果电脑）** `/etc/hosts`
+**Mac（苹果电脑）*- `/etc/hosts`
 
-**iPhone（iOS）** `/etc/hosts`
+**iPhone（iOS）*- `/etc/hosts`
 
 ## 修改方式
 
@@ -34,7 +34,7 @@ hosts 文件属于系统核心文件之一。
 
 ## 修改hosts后生效的方法
 
-* Windows
+- Windows
 
     cmd.exe 输入：
 
@@ -42,7 +42,7 @@ hosts 文件属于系统核心文件之一。
     ipconfig /flushdns
     ```
 
-* Linux
+- Linux
 
     终端输入：
 
@@ -58,7 +58,7 @@ hosts 文件属于系统核心文件之一。
 
     *若不懂请都尝试下*
 
-* Mac OS X
+- Mac OS X
 
     终端输入：
 
@@ -66,9 +66,13 @@ hosts 文件属于系统核心文件之一。
     sudo killall -HUP mDNSResponder
     ```
 
-* Android
+- Android
 
     开启飞行模式 -> 关闭飞行模式
+
+- Chrome
+
+    访问`chrome://net-internals/#dns`，然后点击`Clear host cache`按钮来清空浏览器里的 DNS 缓存
 
 ### 通用办法
 
